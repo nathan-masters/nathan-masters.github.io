@@ -22,7 +22,7 @@ title: Nathan Masters
 email: nathanjmasters@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Somewhere you can find out a little more about me and what I get up to.
-baseurl: "/Nathan" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nathanjmasters
 github_username:  nathan-masters
