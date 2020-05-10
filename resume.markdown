@@ -6,7 +6,7 @@ permalink: /resume/
 
 # **Hi!**
 
-![hand-in-pic](../assets/img/hand-in-pic.jpeg# right prop35 "Me!"){:width="250px"}
+![hand-in-pic](../assets/img/hand-in-pic.png# right prop35 "Me!"){:width="250px"}
 
 
 
