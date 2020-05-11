@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/
+title: CV - Proper
+permalink: /cv/
 ---
 
 # **Hi!**
@@ -23,6 +23,7 @@ mountains and sharing these experiences with others.
 - [Conference Attendance](#conferences)
 - [Extra information](#extra)
 
+<br>
 <br>
 
   
