@@ -1,3 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/Nathan/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Nathan/" rel="alternate" type="text/html" /><updated>2020-05-06T19:16:20+02:00</updated><id>http://localhost:4000/Nathan/feed.xml</id><title type="html">Nathan Masters</title><subtitle>Somewhere you can find out a little more about me and what I get up to.</subtitle><entry><title type="html">Welcome to confinement</title><link href="http://localhost:4000/Nathan/2020/05/01/welcome-to-confinement.html" rel="alternate" type="text/html" title="Welcome to confinement" /><published>2020-05-01T16:07:27+02:00</published><updated>2020-05-01T16:07:27+02:00</updated><id>http://localhost:4000/Nathan/2020/05/01/welcome-to-confinement</id><content type="html" xml:base="http://localhost:4000/Nathan/2020/05/01/welcome-to-confinement.html">&lt;p&gt;Confinement is in progress… and so is this website&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-11T19:56:49+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nathan Masters</title><subtitle>Somewhere you can find out a little more about me and what I get up to.</subtitle><entry><title type="html">Interactive Bokeh: UK/Swiss Covid Comparisons</title><link href="http://localhost:4000/2020/05/11/interactive_bokeh.html" rel="alternate" type="text/html" title="Interactive Bokeh: UK/Swiss Covid Comparisons" /><published>2020-05-11T19:44:27+02:00</published><updated>2020-05-11T19:44:27+02:00</updated><id>http://localhost:4000/2020/05/11/interactive_bokeh</id><content type="html" xml:base="http://localhost:4000/2020/05/11/interactive_bokeh.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
 
-&lt;p&gt;I’m making some quick edits to the site to see how it uploads onto github pages.&lt;/p&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website</summary></entry></feed>
+&lt;p&gt;An update from my previous post. My previous post presented some data compiled in Python
+and using matplotlib to output a static post.&lt;/p&gt;
+
+&lt;p&gt;Since then, I’ve tried to see if I can present this data in a slightly more interactive way.
+Along comes “Bokeh” to save the day - or at least help a little. A little fiddly to work out,
+but not too tricky, it presents nice enough plots, which didn’t require too much new learning.
+All the compilation into html is performed for you, and simple inclusion into R markdown script
+means you can all see it.&lt;/p&gt;
+
+&lt;p&gt;Currently residing in Switzerland, and originally from the UK, it’s a little worrying to see
+how the two countries outcomes are so different…&lt;/p&gt;
+
+&lt;p&gt;These graphs use the easily available data from the &lt;a href=&quot;https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide&quot; target=&quot;_blank&quot;&gt;European Centre for Disease Prevention and Control&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A little difficulty I had in particular with Bokeh, was scaling the legend responsively with 
+page width. So sorry if you’re looking at this on a small screen :(&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/img/Bokeh/UK-CH_corona.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;575&quot; scrolling=&quot;no&quot; float=&quot;centre&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website.</summary></entry><entry><title type="html">Covid Confinement</title><link href="http://localhost:4000/2020/05/01/welcome-to-confinement.html" rel="alternate" type="text/html" title="Covid Confinement" /><published>2020-05-01T16:07:27+02:00</published><updated>2020-05-01T16:07:27+02:00</updated><id>http://localhost:4000/2020/05/01/welcome-to-confinement</id><content type="html" xml:base="http://localhost:4000/2020/05/01/welcome-to-confinement.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
+
+&lt;p&gt;I’ve recently been trying to understand Python a bit better with a few exercises. Previously
+I’ve typically worked in R for data analysis and visualisation, but with the added time on my hands
+I’ve had the opportunity to try and get to know another system.&lt;/p&gt;
+
+&lt;p&gt;It’s nice to have the opportunity to suddenly be given a huge amount of publicly available data,
+and I’m sure like many people who are able to make their own plots and analyse the data, the 
+temptation was there to make some comparisons. I was mainly inspired by the plots of the 
+&lt;a href=&quot;https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441&quot; target=&quot;_blank&quot;&gt;Financial Times&lt;/a&gt; created by 
+&lt;a href=&quot;https://twitter.com/jburnmurdoch&quot; target=&quot;_blank&quot;&gt;@jburnmurdoch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Anyway, here are some initial attempts to put together some plots using the easily available data
+from the &lt;a href=&quot;https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide&quot; target=&quot;_blank&quot;&gt;European Centre for Disease Prevention and Control&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/Latest-Plot.png&quot; alt=&quot;Latest_Plot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll have a look at how else I can begin to plot this data interactively.&lt;/p&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website.</summary></entry></feed>
