@@ -28,7 +28,7 @@ page width. So sorry if you're looking at this on a small screen :(
 <iframe src="/assets/img/Bokeh/UK-CH_corona.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="575"
+    height="650"
     scrolling="no"
     float="centre"
     seamless="seamless"
