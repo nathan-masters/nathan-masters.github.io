@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+![personal-banner](../assets/img/nathan-photos.png "Me!")
+
+A bit more information about me...
