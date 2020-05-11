@@ -9,7 +9,7 @@ layout: home
 
 ## About Me
 
-![personal-banner](../assets/img/nathan-portrait-2.jpg# right prop35 "Me!"){:width="250px"}
+![personal-banner](../assets/img/nathan-portrait-2-crop.jpg# right prop35 "Me!"){:width="250px"}
 
 Having recently completed my PhD at the University of Bristol I've spent the last four years 
 studying how plants and algae can exhibit structural colour. This is when the colour which is reflected 
