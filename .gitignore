@@ -1,0 +1,5 @@
+# Ignore uploading _site/ folder
+_site/
+
+# Ignore Python files
+*.py
