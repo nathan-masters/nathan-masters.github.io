@@ -1,4 +1,5 @@
 # Ignore uploading _site/ folder
+/_site/
 _site/
 
 
