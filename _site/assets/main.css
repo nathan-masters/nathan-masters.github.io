@@ -11,17 +11,17 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { mar
 main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
 
 /** Images */
-img { max-width: 100%; vertical-align: middle; padding: 5px; }
+img { max-width: 100%; vertical-align: middle; padding: 10px; }
 
 img[src~="thumbnail"] { width: 150px; height: 100px; }
 
-img[src~="right"] { float: right; padding: 5px; }
+img[src~="right"] { float: right; padding: 10px; }
 
-img[src~="prop35"] { width: 35%; height: auto; padding: 5px; }
+img[src~="prop35"] { width: 35%; height: auto; padding: 10px; }
 
-img[src~="prop45"] { width: 45%; height: auto; padding: 5px; }
+img[src~="prop45"] { width: 45%; height: auto; padding: 10px; }
 
-img[src~="prop50"] { width: 50%; height: auto; padding: 5px; }
+img[src~="prop50"] { width: 50%; height: auto; padding: 10px; }
 
 /** Figures */
 figure > img { display: block; }
