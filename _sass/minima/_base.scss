@@ -59,7 +59,7 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
-  padding: 5px
+  padding: 10px
 }
 
 img[src~="thumbnail"] {
@@ -68,25 +68,25 @@ img[src~="thumbnail"] {
 }
 img[src~="right"] {
    float: right;
-   padding: 5px
+   padding: 10px
 }
 
 img[src~="prop35"] {
    width: 35%;
    height: auto;
-   padding: 5px
+   padding: 10px
 }
 
 img[src~="prop45"] {
    width: 45%;
    height: auto;
-   padding: 5px
+   padding: 10px
 }
 
 img[src~="prop50"] {
    width: 50%;
    height: auto;
-   padding: 5px
+   padding: 10px
 }
 
 

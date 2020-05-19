@@ -3,10 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: About me
 ---
 
-# About Me
 
 ![personal-banner](../assets/img/nathan-portrait-2-crop.jpg# right prop45 "Me!"){:width="250px"}
 
