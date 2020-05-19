@@ -1,0 +1,17 @@
+I"�<h1 id="confinement-is-in-progress-and-so-is-this-website">Confinement is in progress… and so is this website.</h1>
+
+<p>Just a quick post to present the direct comparison of cumulative deaths
+for a number of countries. This data is accurate as of the 12th May.</p>
+
+<p>It turns out Bokeh’s use of a dedicated Source Data Structure makes
+quick changes a little difficult. Another thing I haven’t quite worked
+out is the scale of the x-axis…</p>
+
+<p>These graphs use the easily available data from the <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays
+-data-geographic-distribution-covid-19-cases-worldwide" target="_blank">European Centre for
+Disease Prevention and
+Control</a>.</p>
+
+<iframe src="/assets/img/Bokeh/corona-comparisons.html" sandbox="allow-same-origin allow-scripts" width="100%" height="800" scrolling="no" float="centre" seamless="seamless" frameborder="0">
+</iframe>
+:ET

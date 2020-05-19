@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-19T12:59:53+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nathan Masters</title><subtitle>Somewhere you can find out a little more about me and what I get up to.</subtitle><entry><title type="html">Les Saints de Glace - is it real?</title><link href="http://localhost:4000/2020/05/19/Saints-des-glaces.html" rel="alternate" type="text/html" title="Les Saints de Glace - is it real?" /><published>2020-05-19T11:10:27+02:00</published><updated>2020-05-19T11:10:27+02:00</updated><id>http://localhost:4000/2020/05/19/Saints-des-glaces</id><content type="html" xml:base="http://localhost:4000/2020/05/19/Saints-des-glaces.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-19T16:21:33+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nathan Masters</title><subtitle>Somewhere you can find out a little more about me and what I get up to.</subtitle><entry><title type="html">Les Saints de Glace - is it real?</title><link href="http://localhost:4000/2020/05/19/Saints-des-glaces.html" rel="alternate" type="text/html" title="Les Saints de Glace - is it real?" /><published>2020-05-19T11:10:27+02:00</published><updated>2020-05-19T11:10:27+02:00</updated><id>http://localhost:4000/2020/05/19/Saints-des-glaces</id><content type="html" xml:base="http://localhost:4000/2020/05/19/Saints-des-glaces.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
 
 &lt;p&gt;Inevitably, as confinement dragged on over a couple of months here in Switzerland, and 
 likewise it seems all over the rest of Europe, the weather was positively glorious! The skies were
@@ -67,16 +67,20 @@ ten years, she was right to believe in this cold weather snap, and I can be quie
 that I was right all along. Isn’t it wonderful when there’s a happy ending, and perhaps 
 for now I’ll leave disproving fairies for another time.&lt;/p&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website.</summary></entry><entry><title type="html">Interactive Bokeh: Direct Comparisons</title><link href="http://localhost:4000/2020/05/12/comparisons.html" rel="alternate" type="text/html" title="Interactive Bokeh: Direct Comparisons" /><published>2020-05-12T13:24:27+02:00</published><updated>2020-05-12T13:24:27+02:00</updated><id>http://localhost:4000/2020/05/12/comparisons</id><content type="html" xml:base="http://localhost:4000/2020/05/12/comparisons.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
 
-&lt;p&gt;Just a quick post to present the direct comparison of cumulative deaths for a number of
-countries. This data is accurate as of the 12th May.&lt;/p&gt;
+&lt;p&gt;Just a quick post to present the direct comparison of cumulative deaths
+for a number of countries. This data is accurate as of the 12th May.&lt;/p&gt;
 
-&lt;p&gt;It turns out Bokeh’s use of a dedicated Source Data Structure makes quick changes a little
-difficult. Another thing I haven’t quite worked out is the scale of the x-axis…&lt;/p&gt;
+&lt;p&gt;It turns out Bokeh’s use of a dedicated Source Data Structure makes
+quick changes a little difficult. Another thing I haven’t quite worked
+out is the scale of the x-axis…&lt;/p&gt;
 
-&lt;p&gt;These graphs use the easily available data from the &lt;a href=&quot;https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide&quot; target=&quot;_blank&quot;&gt;European Centre for Disease Prevention and Control&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;These graphs use the easily available data from the &lt;a href=&quot;https://www.ecdc.europa.eu/en/publications-data/download-todays
+-data-geographic-distribution-covid-19-cases-worldwide&quot; target=&quot;_blank&quot;&gt;European Centre for
+Disease Prevention and
+Control&lt;/a&gt;.&lt;/p&gt;
 
 &lt;iframe src=&quot;/assets/img/Bokeh/corona-comparisons.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;800&quot; scrolling=&quot;no&quot; float=&quot;centre&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website.</summary></entry><entry><title type="html">Interactive Bokeh: UK/Swiss Covid Comparisons</title><link href="http://localhost:4000/2020/05/11/interactive_bokeh.html" rel="alternate" type="text/html" title="Interactive Bokeh: UK/Swiss Covid Comparisons" /><published>2020-05-11T19:44:27+02:00</published><updated>2020-05-11T19:44:27+02:00</updated><id>http://localhost:4000/2020/05/11/interactive_bokeh</id><content type="html" xml:base="http://localhost:4000/2020/05/11/interactive_bokeh.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
+&lt;/iframe&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website. Just a quick post to present the direct comparison of cumulative deaths for a number of countries. This data is accurate as of the 12th May.</summary></entry><entry><title type="html">Interactive Bokeh: UK/Swiss Covid Comparisons</title><link href="http://localhost:4000/2020/05/11/interactive_bokeh.html" rel="alternate" type="text/html" title="Interactive Bokeh: UK/Swiss Covid Comparisons" /><published>2020-05-11T19:44:27+02:00</published><updated>2020-05-11T19:44:27+02:00</updated><id>http://localhost:4000/2020/05/11/interactive_bokeh</id><content type="html" xml:base="http://localhost:4000/2020/05/11/interactive_bokeh.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
 
 &lt;p&gt;An update from my previous post. My previous post presented some data compiled in Python
 and using matplotlib to output a static post.&lt;/p&gt;
@@ -113,4 +117,125 @@ from the &lt;a href=&quot;https://www.ecdc.europa.eu/en/publications-data/downlo
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/Latest-Plot.png&quot; alt=&quot;Latest_Plot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I’ll have a look at how else I can begin to plot this data interactively.&lt;/p&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website.</summary></entry></feed>
+&lt;p&gt;I’ll have a look at how else I can begin to plot this data interactively.&lt;/p&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website.</summary></entry><entry><title type="html">Southern Sandstone Sun</title><link href="http://localhost:4000/2019/05/18/Southern-sandstone-sun.html" rel="alternate" type="text/html" title="Southern Sandstone Sun" /><published>2019-05-18T11:10:27+02:00</published><updated>2019-05-18T11:10:27+02:00</updated><id>http://localhost:4000/2019/05/18/Southern-sandstone-sun</id><content type="html" xml:base="http://localhost:4000/2019/05/18/Southern-sandstone-sun.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
+
+&lt;p&gt;Unusually, I managed to get out on some rock while back home in East
+Sussex. The sandstone outcrops of my home county have a similar feel to
+the sandstone of the famous Fontainebleau – a friendly and encouraging
+environment, and when it’s as sunny as it was on Wednesday afternoon,
+absolute bliss! Joe and myself headed to the longest stretch of crags at
+Harrison’s Rocks. Joe, an avid cyclist and all around exercise
+enthusiast, was keen to get back out climbing again – the last time we
+climbed together was eleven years ago! Back at Harrison’s Rocks over a
+decade later, we quickly became re-familiarised with the slopey holds
+and strange etiquette of top-ropes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/harrisons_rocks_2.jpg&quot; alt=&quot;Harrison's Rocks&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;&lt;center&gt;
+Joe leading the way back to the car after a beautiful evening in the sun.
+&lt;/center&gt;&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Southern Sandstone is quite possibly the sandiest of sandstone. As such,
+British climbing ethics become even stricter: bouldering brushes,
+leader-placed protection, climbing on damp rock, and lowering off are
+all banned. The protection of the rock has to be of the upmost
+importance. Just the rubbing of your hands on the rock soon displaces a
+considerable amount of sand. The sandstone is protected by a thin,
+weathered, solid outer layer which shields the underlying crumbly rock.
+Just like gritstone however, as soon as this is barrier is broken,
+damage soon speeds up.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/harrisons_rocks.jpg# right prop45&quot; alt=&quot;Sociable climbing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With our new found morals and ethics we started getting stuck in – quite
+literally. A decision to attempt “Sunshine Crack” was a rude start but
+with a little jamming of arms and legs we got to grips with the rock.
+Slowly but surely we made upward progress!&lt;/p&gt;
+
+&lt;p&gt;The chance to climb with Joe also gave me a great chance to go through
+the process of instructing again. In a couple of weeks I have my RCI
+(Rock Climbing Instructor) assessment. As part of this assessment I need
+to be able to take those who have never climbed before out to single
+pitch crags and arrange top rope setups. The afternoon proved to be
+perfect practice – even if Joe wasn’t a complete novice!&lt;/p&gt;
+
+&lt;p&gt;After so long away from the Southern Sandstone I was reminded by just
+how pleasant experience it is. The convenience, soft rock, sheltered
+crags, and sun really made for a delightful afternoon. Credit should go
+to the BMC for all the work they have done to preserve access to many of
+these crags as well as the management of the trees. The cutting down of
+trees below the crags looks drastic but has a couple of important
+reasons: reducing the shade from the trees allows for improved drying of
+the rock, meaning more climbing and limiting damage caused by impatient
+climbers. The clearings also allow for native flora and fauna to
+flourish – reaching up between the leafy ground, new saplings quickly
+become reestablished. If you want any more information
+&lt;a href=&quot;http://www.
+southernsandstoneclimbs.co.uk&quot; target=&quot;_blank&quot;&gt;http://www.southernsandstoneclimbs.co.uk&lt;/a&gt; is a good place to
+check out.&lt;/p&gt;
+
+&lt;p&gt;The afternoon was swiftly followed by dinner at the local pub with a
+welcome pint of Harvey’s Best to finish the evening perfectly. Thanks
+Joe!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/harrisons_rocks_3.jpg&quot; alt=&quot;Joe and I climbing&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;&lt;center&gt;
+Joe getting knee-deep into Sunshine Crack, and a very happy Nathan to be
+climbing in the sun again.
+&lt;/center&gt;&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website.</summary></entry><entry><title type="html">The first day…</title><link href="http://localhost:4000/2019/05/15/The-first-day.html" rel="alternate" type="text/html" title="The first day..." /><published>2019-05-15T11:10:27+02:00</published><updated>2019-05-15T11:10:27+02:00</updated><id>http://localhost:4000/2019/05/15/The-first-day</id><content type="html" xml:base="http://localhost:4000/2019/05/15/The-first-day.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
+
+&lt;p&gt;The first day of paid outdoor work has come and gone… The years spent
+out in the mountains and enjoying the countryside has finally paid off –
+ha! It was never for the money in the past, but now it is a small part
+of what the outdoor environment is for me. I’ve taken the decision to
+step out into the working world and try and make what I can from it
+while spending my time outdoors.&lt;/p&gt;
+
+&lt;p&gt;The Duke of Edinburgh award was I suppose the first time I really had
+the opportunity to enjoy travelling through the outdoors independently.
+Of course it was part of a team, but it felt like this was the first
+chance in which we were left to organise and plan where we wanted to go,
+be largely responsible for ourselves, and travel across large distances
+self-supported. For those of us who enjoy the countryside, journey
+through it, and get off the well worn path, a lot of the skills which
+are gained through the D of E award become second nature. The decision
+to cross a field or not, which land can be accessed and which shouldn’t,
+and just how far can we travel and how high can we climb soon start to
+become familiar. These decisions though are not simple, and going back
+to work with D of E groups is a great way to understand again what it
+was like when we all started enjoying the outdoors.&lt;/p&gt;
+
+&lt;p&gt;Although I’ve spent the last four or five years leading and organising
+groups in the mountains at university, my first weekend with D of E
+groups felt a little like a baptism of fire. 14 year olds are a very
+different bunch to 18 – 25 year olds. Full of the excitement and energy
+of youth, while yearning for the independence of adulthood, it makes for
+an interesting time, but one which takes a bit of getting used to. This
+was the school’s Bronze practice expedition, and I was the leader for
+two groups of seven kids. The first day was a semi-supervised day in
+which I walked alongside and between the two groups, helping them get to
+grips with the micro-navigation through the countless fields of the
+Chilterns, and encouraging working as a team. I left the teams to
+themselves as much as possible and they both did remarkably well – good
+pacing, and no serious navigational errors, and I was very impressed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/forest_trees.jpg&quot; alt=&quot;Walking through the forest trees&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;&lt;center&gt;
+The trees of the forest were a welcome relief, even if the number of
+forestry tracks were slightly confusing…
+&lt;/center&gt;&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was wonderful seeing the groups progress over the weekend, making the
+same mistakes I remember making, and seeing their happiness of making it
+to the next checkpoint where I waited for them. It also helped that the
+weather was glorious. Bright sunshine and cool, springtime breezes are a
+good mix for walking, and I’ve no doubt it will make them excited for
+their upcoming assessed expedition.&lt;/p&gt;
+
+&lt;p&gt;As first experiences of working on D of E expeditions go, I couldn’t
+have asked for more and now I’m just as excited for the next expedition
+as I was when I was 14!&lt;/p&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website.</summary></entry></feed>
