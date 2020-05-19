@@ -21,6 +21,8 @@ img[src~="prop35"] { width: 35%; height: auto; }
 
 img[src~="prop45"] { width: 45%; height: auto; }
 
+img[src~="prop50"] { width: 50%; height: auto; }
+
 /** Figures */
 figure > img { display: block; }
 

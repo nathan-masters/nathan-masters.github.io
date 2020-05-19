@@ -376,7 +376,7 @@ def plot_figure(month, day, plot_number):
             ]
 
         
-        p_comp = figure(title = "Cumulative Death Comparisons", 
+        p_comp = figure(title = "Cumulative Death Comparisons (as of {})".format(datetime.date.today()), 
                    plot_height=350, 
                    plot_width=500,
                    y_axis_type="log", 

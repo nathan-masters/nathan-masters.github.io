@@ -1,0 +1,33 @@
+I"	<h1 id="confinement-is-in-progress-and-so-is-this-website">Confinement is in progress… and so is this website.</h1>
+
+<p>Inevitably, as confinement dragged on over a couple of months here in Switzerland, and 
+likewise it seems all over the Europe, the weather was positively glorious! The skies were
+big with dawn to dusk blue skies, while we were all cooped up in our homes with nowhere to go.
+The view of our neighbours’ extensive balconies in the sun taunted us each day…</p>
+
+<p>But just as May was getting under way, and the summer felt like it was truly beginning to arrive
+there was a spot of cold weather. Rain came, and temperatures fell, and suddenly it was 
+the beginning of spring again. “Well it’s to be expected, it’s the Saints des Glace”, my 
+partner mentioned off hand as if it was something I really should have known about. The
+idea that a brief drop in cold weather occurred annually with such regularity there were a 
+group of saints collectively known as the Ice Saints was pretty exciting. Perhaps, rather
+naïvely I laughed off the suggestion that this was “a real thing”… Surely not…</p>
+
+<p>So much to her annoyance, I was soon explaining how so many of these phenomena are purely
+coincidence, and subject to perception bias, etc., etc… Unsurprisingly, this didn’t ease 
+any tensions. We changed the subject. If confinement in a studio flat has taught us anything,
+it’s how to let sleeping dogs lie.</p>
+
+<p>But while those dogs slept quietly, plans were afoot. I was soon back at my laptop
+utilising some of my new found python knowledge, to see if I could provide at least a crumb
+of empirical evidence, against her, and seemingly centuries of tradition, that claimed a
+wonderful meteorological phenomenon was occurring.</p>
+
+<p>Foremost, it seems obtaining data for extensive previous meteorological measurements can be 
+somewhat difficult - at least without paying the Swiss weather organisation, or any number
+of other data resellers online. But, eventually, and with my eyes subconsciously glancing
+over many obtrusive advertisements I was able to very slowly collect average daily temperatures
+in May for the Geneva Airport. And, I was initially a little taken back…</p>
+
+<p><img src="/assets/img/daily_temps.png" alt="Daily Temperatures 2010-2019" /></p>
+:ET
