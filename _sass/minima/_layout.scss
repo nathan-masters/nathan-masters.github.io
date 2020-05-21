@@ -10,6 +10,18 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  width: 100%;
+//   max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {// 
+//     width: 100%;
+//     max-width: 750px;
+//     margin-left: auto;
+//     margin-right: auto;
+    position: relative;
 }
 
 .site-title {
@@ -26,7 +38,6 @@
     color: #FFFFFF;
   }
 }
-
 
 
 .site-nav {
