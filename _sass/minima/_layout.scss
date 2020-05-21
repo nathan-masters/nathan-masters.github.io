@@ -27,6 +27,12 @@
   }
 }
 
+.container {
+    background-color: rgba(0,0,0,0);
+    color: #cdcdcd;
+	position:relative;
+}
+
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
