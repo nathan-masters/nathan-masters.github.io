@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV - Adventure
-permalink: /adv-cv/
+title: CV - Outdoor
+permalink: /outdoor-cv/
 ---
 
 # **Hi!**
