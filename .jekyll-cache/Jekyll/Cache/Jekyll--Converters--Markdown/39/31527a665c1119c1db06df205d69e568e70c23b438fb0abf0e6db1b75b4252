@@ -1,12 +1,4 @@
----
-layout: post
-title:  "SVG"
-date:   2021-05-22 09:10:27 +0200
-author: Nathan
----
-
-# Confinement is in progress... and so is this website.
-
+I"á<h1 id="confinement-is-in-progress-and-so-is-this-website">Confinement is in progressâ€¦ and so is this website.</h1>
 
 <div>
 	
@@ -52,12 +44,19 @@ author: Nathan
 	
 </div>
 
+<script src="https://d3js.org/d3.v5.min.js"></script>
 
+<div id="svgcontainer">
+</div>
+<script>
+	d3.csv("../temperature.csv", function(data) {
+	for (var i=0; i < data.length; i++) {
+		console.log(data[i].date);
+		console.log(data[i].age);
+		}
+	});
+		
 
+</script>
 
-
-
-
-
-
-
+:ET

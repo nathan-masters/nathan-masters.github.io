@@ -1,12 +1,4 @@
----
-layout: post
-title:  "SVG"
-date:   2021-05-22 09:10:27 +0200
-author: Nathan
----
-
-# Confinement is in progress... and so is this website.
-
+I"¥à<h1 id="confinement-is-in-progress-and-so-is-this-website">Confinement is in progressâ€¦ and so is this website.</h1>
 
 <div>
 	
@@ -52,12 +44,10 @@ author: Nathan
 	
 </div>
 
+<div id="svgcontainer">
+	<svg width="300" height="300">
+		<line x1="100" y1="100" x2="200" y2="200" style="stroke:rgb(255,0,0); stroke-width:2" />
+	</svg>
+</div>
 
-
-
-
-
-
-
-
-
+:ET
