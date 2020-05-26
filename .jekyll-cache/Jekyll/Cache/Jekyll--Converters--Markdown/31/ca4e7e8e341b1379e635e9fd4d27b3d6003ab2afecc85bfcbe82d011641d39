@@ -1,4 +1,4 @@
-I"R<h1 id="confinement-is-in-progress-and-so-is-this-website">Confinement is in progress… and so is this website.</h1>
+I"G<h1 id="confinement-is-in-progress-and-so-is-this-website">Confinement is in progress… and so is this website.</h1>
 
 <p>Colours of everyday items typically come from the pigments within them. Think of the clothes
 you own, or the items around your house. The vast majority of these are coloured by the
@@ -16,10 +16,11 @@ when the sun rose. There certainly isn’t a sudden change in the concentration 
 in the sky in the last hour or two before the night. In the case of the sky, and in fact
 many examples, the colour comes from elsewhere. Not from pigment, but from the underlying
 structure. This is structural colour.</p>
-
-<video width="480" height="320" autoplay="" muted="" loop="">
+<div style="width: 50%; float: right; padding: 10px">
+<video width="100%" height="100%" playsinline="" autoplay="" muted="" loop="">
   <source src="/assets/vid/Morpho.mp4" type="video/mp4" />
 </video>
+</div>
 
 <p>The reason for this post, came about because the BBC recently posted an article discussing
 <a href="https://www.bbc.com/culture/article/20200512-what-you-didnt-
@@ -52,6 +53,14 @@ seaweed called <em>Cystoseira tamariscifolia</em>, or Bushy Rainbow Wrack. This 
 easily found in the rockpools of Cornwall where they have an exceptional and quite 
 distinctive blue colour.</p>
 
-<p>The wonderful colour of this algae is only dependent on the s</p>
+<p>The wonderful colour of this algae is only dependent on the structure alone, and so when 
+Lindsay Hanson, whose research was highlighted by the BBC, discusses implementing these 
+structures with electronics, we can see how colour may be controlled. Very slight changes
+in osmotic pressure for example could alter the arrangement of these opal spheres, and 
+entirely change colour of light reflected. In fact, this was also observed in our studies
+of the Bushy Rainbow Wrack seaweed. The blue colour appeared or disappeared depending on 
+how much light was experienced by the seaweed. It’s anticipated that this is a mechanism for
+managing photosynthesis - perhaps similar artificial techniques could indeed be used in the
+fashion industry!</p>
 
 :ET

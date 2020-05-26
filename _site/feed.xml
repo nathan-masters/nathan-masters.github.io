@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T10:53:36+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nathan Masters</title><subtitle>Somewhere you can find out a little more about me and what I get up to.</subtitle><entry><title type="html">Opal colours featured by the BBC</title><link href="http://localhost:4000/2020/05/25/Opal-colours-featured-BBC.html" rel="alternate" type="text/html" title="Opal colours featured by the BBC" /><published>2020-05-25T09:00:27+02:00</published><updated>2020-05-25T09:00:27+02:00</updated><id>http://localhost:4000/2020/05/25/Opal-colours-featured-BBC</id><content type="html" xml:base="http://localhost:4000/2020/05/25/Opal-colours-featured-BBC.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T11:16:40+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nathan Masters</title><subtitle>Somewhere you can find out a little more about me and what I get up to.</subtitle><entry><title type="html">Opal colours featured by the BBC</title><link href="http://localhost:4000/2020/05/25/Opal-colours-featured-BBC.html" rel="alternate" type="text/html" title="Opal colours featured by the BBC" /><published>2020-05-25T09:00:27+02:00</published><updated>2020-05-25T09:00:27+02:00</updated><id>http://localhost:4000/2020/05/25/Opal-colours-featured-BBC</id><content type="html" xml:base="http://localhost:4000/2020/05/25/Opal-colours-featured-BBC.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
 
 &lt;p&gt;Colours of everyday items typically come from the pigments within them. Think of the clothes
 you own, or the items around your house. The vast majority of these are coloured by the
@@ -14,12 +14,13 @@ to produced light in much the same way it has for billions of years. The atmosph
 isn’t changing much either. It’s still composed of a similar ratio of molecules as it was
 when the sun rose. There certainly isn’t a sudden change in the concentration of pigments
 in the sky in the last hour or two before the night. In the case of the sky, and in fact
-many examples, the colour comes from elsewhere. Not from pigment, but from the underlying
-structure. This is structural colour.&lt;/p&gt;
-
+many examples including the distinctive &lt;em&gt;Morpho&lt;/em&gt; butterfly, the colour comes from elsewhere. 
+Not from pigment, but from the underlying structure. This is structural colour.&lt;/p&gt;
+&lt;div style=&quot;width: 50%; float: right; padding: 10px&quot;&gt;
 &lt;video width=&quot;100%&quot; height=&quot;100%&quot; playsinline=&quot;&quot; autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
   &lt;source src=&quot;/assets/vid/Morpho.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The reason for this post, came about because the BBC recently posted an article discussing
 &lt;a href=&quot;https://www.bbc.com/culture/article/20200512-what-you-didnt-
@@ -52,7 +53,22 @@ seaweed called &lt;em&gt;Cystoseira tamariscifolia&lt;/em&gt;, or Bushy Rainbow 
 easily found in the rockpools of Cornwall where they have an exceptional and quite 
 distinctive blue colour.&lt;/p&gt;
 
-&lt;p&gt;The wonderful colour of this algae is only dependent on the s&lt;/p&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website.</summary></entry><entry><title type="html">Les Saints de Glace - is it real?</title><link href="http://localhost:4000/2020/05/19/Saints-des-glaces.html" rel="alternate" type="text/html" title="Les Saints de Glace - is it real?" /><published>2020-05-19T11:10:27+02:00</published><updated>2020-05-19T11:10:27+02:00</updated><id>http://localhost:4000/2020/05/19/Saints-des-glaces</id><content type="html" xml:base="http://localhost:4000/2020/05/19/Saints-des-glaces.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
+&lt;p&gt;The wonderful colour of this algae is only dependent on the structure alone, and so when 
+Lindsay Hanson, whose research was highlighted by the BBC, discusses implementing these 
+structures with electronics, we can see how colour may be controlled. Very slight changes
+in osmotic pressure for example could alter the arrangement of these opal spheres, and 
+entirely change colour of light reflected. In fact, this was also observed in our studies
+of the Bushy Rainbow Wrack seaweed. The blue colour appeared or disappeared depending on 
+how much light was experienced by the seaweed. It’s anticipated that this is a mechanism for
+managing photosynthesis, but perhaps similar artificial techniques could indeed be used in the
+fashion industry!&lt;/p&gt;
+
+&lt;p&gt;It’s exciting to see how the research we were able to conduct can have far-reaching and
+often unexpected impacts. It demonstrates that our research has value, and justifies to me
+the many hours of hard work we all put in to this project. If you’d like to read more you
+can read our paper here in &lt;a href=&quot;https://advances.sciencemag.org/content/4/4/eaan8917.abstract&quot; target=&quot;_blank&quot;&gt;Science
+Advances&lt;/a&gt;
+.&lt;/p&gt;</content><author><name>Nathan</name></author><summary type="html">Confinement is in progress… and so is this website.</summary></entry><entry><title type="html">Les Saints de Glace - is it real?</title><link href="http://localhost:4000/2020/05/19/Saints-des-glaces.html" rel="alternate" type="text/html" title="Les Saints de Glace - is it real?" /><published>2020-05-19T11:10:27+02:00</published><updated>2020-05-19T11:10:27+02:00</updated><id>http://localhost:4000/2020/05/19/Saints-des-glaces</id><content type="html" xml:base="http://localhost:4000/2020/05/19/Saints-des-glaces.html">&lt;h1 id=&quot;confinement-is-in-progress-and-so-is-this-website&quot;&gt;Confinement is in progress… and so is this website.&lt;/h1&gt;
 
 &lt;p&gt;Inevitably, as confinement dragged on over a couple of months here in Switzerland, and 
 likewise it seems all over the rest of Europe, the weather was positively glorious! The skies were

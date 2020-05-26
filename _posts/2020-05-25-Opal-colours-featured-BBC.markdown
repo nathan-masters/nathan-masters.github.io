@@ -21,12 +21,13 @@ to produced light in much the same way it has for billions of years. The atmosph
 isn't changing much either. It's still composed of a similar ratio of molecules as it was
 when the sun rose. There certainly isn't a sudden change in the concentration of pigments
 in the sky in the last hour or two before the night. In the case of the sky, and in fact
-many examples, the colour comes from elsewhere. Not from pigment, but from the underlying
-structure. This is structural colour.
-
+many examples including the distinctive *Morpho* butterfly, the colour comes from elsewhere. 
+Not from pigment, but from the underlying structure. This is structural colour.
+<div style="width: 50%; float: right; padding: 10px">
 <video width="100%" height="100%" playsinline autoplay muted loop>
   <source src="/assets/vid/Morpho.mp4" type="video/mp4">
 </video>
+</div>
 
 The reason for this post, came about because the BBC recently posted an article discussing
 ["What you didn't know about
@@ -59,7 +60,22 @@ seaweed called *Cystoseira tamariscifolia*, or Bushy Rainbow Wrack. This seaweed
 easily found in the rockpools of Cornwall where they have an exceptional and quite 
 distinctive blue colour. 
 
-The wonderful colour of this algae is only dependent on the s
+The wonderful colour of this algae is only dependent on the structure alone, and so when 
+Lindsay Hanson, whose research was highlighted by the BBC, discusses implementing these 
+structures with electronics, we can see how colour may be controlled. Very slight changes
+in osmotic pressure for example could alter the arrangement of these opal spheres, and 
+entirely change colour of light reflected. In fact, this was also observed in our studies
+of the Bushy Rainbow Wrack seaweed. The blue colour appeared or disappeared depending on 
+how much light was experienced by the seaweed. It's anticipated that this is a mechanism for
+managing photosynthesis, but perhaps similar artificial techniques could indeed be used in the
+fashion industry!
+
+It's exciting to see how the research we were able to conduct can have far-reaching and
+often unexpected impacts. It demonstrates that our research has value, and justifies to me
+the many hours of hard work we all put in to this project. If you'd like to read more you
+can read our paper here in [Science
+Advances](https://advances.sciencemag.org/content/4/4/eaan8917.abstract){:target="_blank"}
+. 
 
 
 
